@@ -35,13 +35,17 @@ More info about the dataset can be found here:
 <img src="data_model.jpeg">
 
 ##Writing Transformation Code (Python)
-Write Data Transformation Code in the Jupyter Note
-It will help us with ETL Process in MAGE 
-Refer < file src="Uber Data Pipeline (Fixed Version).ipynb">
+Write Data Transformation Code in the Jupyter Notebook. It will help us with ETL Process in MAGE 
+Refer to file Uber Data Pipeline (Fixed Version).ipynb
 
 ## Google Cloud Storage & Mage Installation
+Refer to the Video Link for a better understanding
 
+## BigQuery Data Analysis
+Getting required Info using Bigquerry which will help us to Represent our Data  
 
+## Building Dashboard
+using Google Looker or any Other BI Tool for Dashboard representation.
 
-
-
+## Complete Video Tutorial
+Video Link - https://youtu.be/WpQECq5Hx9g
