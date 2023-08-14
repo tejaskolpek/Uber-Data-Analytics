@@ -18,7 +18,7 @@ Google Cloud Platform
 
 Modern Data Pipeine Tool - https://www.mage.ai/
 
-Contibute to this open source project - https://github.com/mage-ai/mage-ai
+Contribute to this open-source project - https://github.com/mage-ai/mage-ai
 
 
 ## Dataset Used
@@ -27,11 +27,21 @@ Yellow and green taxi trip records include fields capturing pick-up and drop-off
 
 Here is the dataset used in the video - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
 
-More info about dataset can be found here:
+More info about the dataset can be found here:
 1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Model
 <img src="data_model.jpeg">
+
+##Writing Transformation Code (Python)
+Write Data Transformation Code in the Jupyter Note
+It will help us with ETL Process in MAGE 
+Refer < file src="Uber Data Pipeline (Fixed Version).ipynb">
+
+## Google Cloud Storage & Mage Installation
+
+
+
 
 
