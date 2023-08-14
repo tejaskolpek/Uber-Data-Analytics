@@ -34,7 +34,7 @@ More info about the dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
-##Writing Transformation Code (Python)
+## Writing Transformation Code (Python)
 Write Data Transformation Code in the Jupyter Notebook. It will help us with ETL Process in MAGE 
 Refer to file Uber Data Pipeline (Fixed Version).ipynb
 
