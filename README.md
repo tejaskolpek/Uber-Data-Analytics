@@ -47,5 +47,3 @@ Getting required Info using Bigquerry which will help us to Represent our Data
 ## Building Dashboard
 using Google Looker or any Other BI Tool for Dashboard representation.
 
-## Complete Video Tutorial
-Video Link - https://youtu.be/WpQECq5Hx9g
